@@ -33,6 +33,9 @@ Include Features here
 ### Technologies
 Include Technologies here
 #Java
+#Java jpa
+#Java validation
+#spring data
 #Mvc
 #Gradle
 #sql
